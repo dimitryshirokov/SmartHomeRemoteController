@@ -1,0 +1,22 @@
+<resources>
+
+    <style name="MyActionBar" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:background">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/colorPrimaryDark</item>
+        <item name="android:titleTextColor">@color/colorPrimaryDark</item>
+        <item name="android:toolbarStyle">@color/colorPrimaryDark</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="android:actionBarItemBackground">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/colorPrimaryDark</item>
+
+    </style>
+
+</resources>

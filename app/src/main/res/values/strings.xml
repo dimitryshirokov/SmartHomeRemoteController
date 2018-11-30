@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Умный дом</string>
+    <string name="ROOM">Комната</string>
+    <string name="KITCHEN">Кухня</string>
+    <string name="HALLWAY">Прихожая</string>
+    <string name="BATHROOM">Ванная</string>
+</resources>
